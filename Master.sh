@@ -7,7 +7,9 @@ cd Ubuntu_Scripts &&
 ./Graphics.sh &&
 ./browsers.sh &&
 ./vim-setup.sh &&
-
+./Keys-List.sh &&
+./Upgrade.sh &&
+echo 'Script is Done !!!'
 
 
 
